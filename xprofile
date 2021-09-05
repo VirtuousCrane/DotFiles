@@ -1,0 +1,13 @@
+export GTK_IM_MODULE='ibus'
+export QT_IM_MODULE='ibus'
+export XMODIFIERS=@im='ibus'
+
+~/.config/bspwm/bspwmrc
+feh --bg-fill ~/Pictures/background/1.png
+~/.config/polybar/launch.sh
+
+#Toolbar for anthy
+ibus-daemon -drx
+
+# For Java
+wmname LG3D
