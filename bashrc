@@ -17,4 +17,6 @@ PS1="\[\033[1;31m\]\A\[\033[0m\] \[\033[1;32m\]\u [\w]\[\033[0m\] \[\033[1;31m\]
 . "$HOME/.cargo/env"
 
 export PS1
+export _JAVA_AWT_WM_NONREPARENTING=1
 zsh
+

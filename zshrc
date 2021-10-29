@@ -100,3 +100,21 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias jupyterlab="jupyter lab"
+alias spotify-tui="spt"
+alias gnome-screenshot="~/Programs/gnome-screenshot -i"
+alias screenshot="~/Programs/gnome-screenshot"
+alias radio-locator="gnome-internet-radio-locator"
+alias javcompile="~/Programs/javcompile"
+alias jv="~/Programs/javcompile"
+alias jr="rm *.class"
+alias j="java"
+
+# FOR THE MEMES
+alias pwull="git pull"
+alias pwush="git push"
+alias chweckwout="git checkout"
+alias bwanch="git branch"
+
+alias noticemesenpai="git pull origin master"
+
+export _JAVA_AWT_WM_NONREPARENTING=1
